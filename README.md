@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href='https://samuelperales.xyz/' style='width: 400px;'>
-  <img src='hello.PNG' style='width: full;'>
+<a href='https://samuelperales.xyz/'>
+  <img src='hello.PNG' style='width: 50%;'>
 </a>
