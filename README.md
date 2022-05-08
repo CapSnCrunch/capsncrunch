@@ -25,5 +25,6 @@ Here are some ideas to get you started:
 - Cleaning up my GitHub Repos
 
 ## What I'm currently learning
-- Adobe Illustrator
+- <a href='https://www.elastic.co/what-is/elasticsearch'>Elastic Search</a> and vector search in general
 - <a href='https://en.wikipedia.org/wiki/Shape_analysis_(digital_geometry)'>Shape Analysis</a>
+- Adobe Illustrator and Blender
