@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src='imgs/simulation.gif' style='width: full;'>
+<img src='hello.PNG' style='width: full;'>
