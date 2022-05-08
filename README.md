@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## What I'm currently working on
 - <a href='https://sites.cns.utexas.edu/geometry_lab/home'>Computational Representation Theory Research with TXGL</a>
-- <a href='layolay.com'>Layolay.com</a>
+- <a href='https://www.layolay.com/'>Layolay.com</a>
 - Cleaning up my GitHub Repos
 
 ## What I'm currently learning
