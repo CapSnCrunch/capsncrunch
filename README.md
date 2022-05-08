@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 </a>
 
 # Welcome to my GitHub Profile!
+
+Click on the image above to view my portfolio!
+
+## What I'm working on
