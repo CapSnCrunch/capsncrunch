@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
 ## What I'm currently learning
 - <a href='https://www.elastic.co/what-is/elasticsearch'>Elastic Search</a> and vector search in general
-- <a href='https://en.wikipedia.org/wiki/Shape_analysis_(digital_geometry)'>Shape Analysis</a>
 - Adobe Illustrator and Blender
+- <a href='https://en.wikipedia.org/wiki/Shape_analysis_(digital_geometry)'>Shape Analysis</a>
