@@ -21,10 +21,9 @@ Here are some ideas to get you started:
 
 ## What I'm currently working on
 - <a href='https://sites.cns.utexas.edu/geometry_lab/home'>Computational Representation Theory Research with TXGL</a>
-- <a href='https://www.layolay.com/'>Layolay.com</a>
+- <a href='https://www.layolay.com/'>Layolay.com</a> (a 3D printing ecommerce site)
 - Cleaning up my GitHub Repos
 
 ## What I'm currently learning
-- <a href='https://www.elastic.co/what-is/elasticsearch'>Elastic Search</a> and vector search in general
+- <a href='https://www.elastic.co/what-is/elasticsearch'>Elastic Search</a>
 - Adobe Illustrator and Blender
-- <a href='https://en.wikipedia.org/wiki/Shape_analysis_(digital_geometry)'>Shape Analysis</a>
