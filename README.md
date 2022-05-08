@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <a href='https://samuelperales.xyz/'>
-  <img src='hello.PNG' style='width: 50%;'>
+  <img src='hello.PNG' style='width: full;'>
 </a>
+
+# Welcome to my GitHub Profile!
