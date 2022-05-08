@@ -19,6 +19,11 @@ Here are some ideas to get you started:
 
 # Welcome to my GitHub Profile!
 
-Click on the image above to view my portfolio!
+## What I'm currently working on
+- <a href='https://sites.cns.utexas.edu/geometry_lab/home'>Computational Representation Theory Research with TXGL</a>
+- <a href='layolay.com'>Layolay.com</a>
+- Cleaning up my GitHub Repos
 
-## What I'm working on
+## What I'm currently learning
+- Adobe Illustrator
+- <a href='https://en.wikipedia.org/wiki/Shape_analysis_(digital_geometry)'>Shape Analysis</a>
