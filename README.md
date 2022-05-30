@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 # Welcome to my GitHub Profile!
 
 ## What I'm currently working on
-- <a href='https://sites.cns.utexas.edu/geometry_lab/home'>Computational Representation Theory Research with TXGL</a>
+- json2yaml (A filetype converter)
 - <a href='https://www.layolay.com/'>Layolay.com</a> (a 3D printing ecommerce site)
-- Cleaning up my GitHub Repos
+- <a href='https://sites.cns.utexas.edu/geometry_lab/home'>Computational Representation Theory Research with TXGL</a>
 
 ## What I'm currently learning
 - <a href='https://www.elastic.co/what-is/elasticsearch'>Elastic Search</a>
