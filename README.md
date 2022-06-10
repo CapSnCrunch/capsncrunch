@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 - <a href='https://sites.cns.utexas.edu/geometry_lab/home'>Computational Representation Theory Research with TXGL</a>
 
 ## What I'm currently learning
-- <a href = 'https://www.djangoproject.com/>Django</a>
+- <a href = 'https://www.djangoproject.com/'>Django</a>
 - Adobe Illustrator
