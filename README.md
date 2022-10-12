@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## What I'm currently working on
 - Working at <a href='https://www.charterup.com/'>CharterUP</a>!
 - Writing articles for my blog
-- Building my Wall-e costume for Halloween.
+- Building my WALL-E costume for Halloween.
 
 ## What I'm currently learning
 - Regex
