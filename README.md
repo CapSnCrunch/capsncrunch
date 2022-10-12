@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 # Welcome to my GitHub Profile!
 
 ## What I'm currently working on
-- Onboarding at <a href='https://www.charterup.com/'>CharterUP</a>!
+- Working at <a href='https://www.charterup.com/'>CharterUP</a>!
 - Writing articles for my blog
-- <a href='https://sites.cns.utexas.edu/geometry_lab/home'>Computational Representation Theory Research with TXGL</a>
+- Building my Wall-e costume for Halloween.
 
 ## What I'm currently learning
-- <a href = 'https://www.djangoproject.com/'>Django</a>
-- <a href = 'https://vuejs.org/'>Vue</a>
+- Regex
+- SQL
