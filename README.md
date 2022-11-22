@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 ## What I'm currently working on
 - Working at <a href='https://www.charterup.com/'>CharterUP</a>!
 - Writing articles for my blog
-- Building my WALL-E costume for Halloween.
+- Making a CV tool for scanning / sorting magic cards
 
 ## What I'm currently learning
-- Regex
-- SQL
+- Reading <em>Mastering Regular Expressions</em> by Jeffrey Friedl
+- Learning AWS (studying for Cloud Practitioner)
