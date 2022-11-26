@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 ## What I'm currently working on
 - Working at <a href='https://www.charterup.com/'>CharterUP</a>!
 - Writing articles for my blog
-- Making a CV tool for scanning / sorting magic cards
+- Building a CV tool for scanning / sorting magic cards
+- Creating a glyph-builder tool for typing Maya glyphs
 
 ## What I'm currently learning
 - Reading <em>Mastering Regular Expressions</em> by Jeffrey Friedl
