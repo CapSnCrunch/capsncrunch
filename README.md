@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 - Creating a glyph-builder tool for typing Maya glyphs
 
 ## What I'm currently learning
-- Reading <em>Mastering Regular Expressions</em> by Jeffrey Friedl
-- Learning AWS (studying for Cloud Practitioner)
+- Reading <em>Algorithms to Live By</em> by Brian Christian and Tom Griffiths
+- Learning AWS (studying for Solutions Architect)
