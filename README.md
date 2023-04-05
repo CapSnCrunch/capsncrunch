@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 ## What I'm currently working on
 - Working at <a href='https://www.charterup.com/'>CharterUP</a>!
 - Writing articles for my blog
-- Building a CV tool for scanning / sorting magic cards
 - Creating a glyph-builder tool for typing Maya glyphs
 
 ## What I'm currently learning
-- Reading <em>Algorithms to Live By</em> by Brian Christian and Tom Griffiths
+- Reading <em>Networking Fundamentals</em> by Gordon Davies
 - Learning AWS (studying for Solutions Architect)
+- Spanish
