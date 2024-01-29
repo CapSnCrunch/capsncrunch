@@ -20,11 +20,9 @@ Here are some ideas to get you started:
 # Welcome to my GitHub Profile!
 
 ## What I'm currently working on
-- Working at <a href='https://www.charterup.com/'>CharterUP</a>!
-- Writing articles for my blog
-- Creating a glyph-builder tool for typing Maya glyphs
+- Working at <a href='https://www.charterup.com/'>CharterUP</a>
+- Various AI-based projects (checkout <a href='https://github.com/CapSnCrunch/epicure-ai'>Epicure AI</a>)
 
 ## What I'm currently learning
-- Reading <em>Networking Fundamentals</em> by Gordon Davies
-- Learning AWS (studying for Solutions Architect)
-- Spanish
+- Studying for my <a href='https://cdso.utexas.edu/msai'>Masters in Artificial Intelligence</a> at UT Austin
+- Learning about AWS (studying for Developer Associate)
