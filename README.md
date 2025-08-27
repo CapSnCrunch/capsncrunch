@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 # Welcome to my GitHub Profile!
 
 ## What I'm currently working on
-- Working at <a href='https://www.charterup.com/'>CharterUP</a>
+- Working at OnProfit, an AI startup.
 - Various AI-based projects (checkout <a href='https://github.com/CapSnCrunch/epicure-ai'>Epicure AI</a>)
 
 ## What I'm currently learning
