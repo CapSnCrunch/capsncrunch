@@ -21,8 +21,5 @@ Here are some ideas to get you started:
 
 ## What I'm currently working on
 - Working at OnProfit, an AI startup.
-- Various AI-based projects (checkout <a href='https://github.com/CapSnCrunch/epicure-ai'>Epicure AI</a>)
-
-## What I'm currently learning
+- Various AI-based projects (checkout <a href='https://github.com/CapSnCrunch/epicure-ai'>Epicure AI</a>, <a href='https://github.com/CapSnCrunch/learn-anything'>Learn Anything</a>, and <a href='https://leafcast.app/'>Leafcast</a>)
 - Studying for my <a href='https://cdso.utexas.edu/msai'>Masters in Artificial Intelligence</a> at UT Austin
-- Learning about AWS (studying for Developer Associate)
